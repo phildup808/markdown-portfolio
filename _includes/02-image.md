@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Auror Badge](https://78.media.tumblr.com/tumblr_m9apw11MEn1rvzabqo1_500.jpg)
