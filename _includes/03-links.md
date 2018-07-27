@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[HexRPG Auror Academy Link](https://www.hexrpg.com/f/39/54553)
